@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('images/back_ground.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form {
+    border-radius: 2px;
+    background-color: aqua;
+    width: 250px;
+    margin: 90px 50px auto auto;
+    height: 200px;
+    padding: 20px;
+}
+
+input[type=text] {
+    background-color: paleturquoise;
+    color: blue;
+    font-size: 15px;
+    width: 90%;
+    border: 1px solid rgb(243, 106, 232);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=button] {
+    background-color: rgba(65, 228, 43, 0.507);
+    color: white;
+    font-size: 15px;
+    padding: 25px;
+}
